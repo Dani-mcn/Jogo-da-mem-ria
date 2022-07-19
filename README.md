@@ -1,2 +1,5 @@
-# Jogo-da-mem-ria
-projeto jogo da memória em js
+# Jogo da memória :dog: 
+- HTML
+- Css
+- JavaScript
+
