@@ -1,5 +1,5 @@
-# Jogo da memória :dog: 
-- HTML
-- Css
-- JavaScript
+# Jogo da Memória :dog:
 
+- HTML
+- CSS
+- JAVASCRIPT
